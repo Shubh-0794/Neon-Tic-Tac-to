@@ -1,0 +1,8 @@
+{
+  "name": "Neon Tic-Tac-Toe",
+  "description": "A futuristic Tic-Tac-Toe game featuring Local PvP, Gemini AI opponents, and Bluetooth Controller support.",
+  "requestFramePermissions": [
+    "microphone",
+    "bluetooth"
+  ]
+}
